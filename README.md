@@ -2,10 +2,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: nicholas.careers2810@gmail.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nicholastan2810/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Nicholas Tan__, a business focused and passion driven Investment Professional with >8 years of progressive experience in fundraising and startup valuation, management, sales, and operations within Banking & Finance and FinTech / PropTech Industry. Forte lies in evaluating building investor relations & strategic partnerships, pivoting business strategy and leading cross-functional teams while innovating and implementing fundamental improvements in scaling operational processes and underlying profitability.
 
 
 <!-- Add link to the sections -->
