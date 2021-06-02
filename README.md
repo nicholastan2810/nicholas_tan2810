@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/nicholastan2810/nicholas_tan2810/main/images/Professional%20Picture.jpg)
+![alt text](https://raw.githubusercontent.com/nicholastan2810/nicholas_tan2810/main/images/rsz_professional_picture.png)
 
 <!-- Add your details -->
 
